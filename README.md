@@ -4,6 +4,7 @@ MÃ SINH VIÊN: B24DCCC102
 
 I. MÔ TẢ BÀI TẬP
 Xây dựng ứng dụng quản lý danh sách sản phẩm với đầy đủ các tính năng CRUD (Create, Read, Update, Delete), tìm kiếm, lọc và phân trang. Ứng dụng bao gồm nhiều trang và sử dụng State Management (useContext, useReducer, createContext) để quản lý state và sử dụng typescript
+
 II. YÊU CẦU CHỨC NĂNG
 1. Cấu trúc ứng dụng
 •	Trang chủ: Hiển thị danh sách sản phẩm
